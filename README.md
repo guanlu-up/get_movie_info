@@ -3,7 +3,7 @@
 获取到的结果保存为: -> list[dict, dict, dict, ...]
 现只在运行结束后将结果数据打印出来，可自行保存到本地
 
-use tools:
+use tools:\n
   selenium
   
 need pakages:
